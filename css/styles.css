@@ -1,0 +1,42 @@
+h1 {
+  font-size: 70px;
+  text-align: center;
+}
+
+body {
+
+  background-image: url("https://stmed.net/sites/default/files/styles/1920x1080/public/triangle-wallpapers-25326-1648896.jpg?itok=gO8XPuFW");
+   background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 20%;
+   /* height: 10000px;
+  width: 10000px;
+   background-color: skyblue;  */
+}
+
+p {
+  margin-top: 70px;
+  font-size: 45px;
+  color: black;
+  text-align: center;
+}
+
+button{
+
+  margin-left:50%;
+  /* margin-right: inherit; */
+  /* float: right; */
+  /* align: right; */
+}
+header{
+  background:
+}
+.one{
+  color:#00008B;
+  font-size: 30px;
+
+}
+.container{
+  align-items: center;
+
+}
